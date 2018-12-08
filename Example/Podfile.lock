@@ -1,0 +1,16 @@
+PODS:
+  - KYMosaicCamera (0.1.0)
+
+DEPENDENCIES:
+  - KYMosaicCamera (from `../`)
+
+EXTERNAL SOURCES:
+  KYMosaicCamera:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KYMosaicCamera: ff44e58a7e0a575b9fbe659883c9f489ff9d00f6
+
+PODFILE CHECKSUM: 7c0c0b6b6059acadef37c5477003ae0e57faba9d
+
+COCOAPODS: 1.6.0.beta.2
