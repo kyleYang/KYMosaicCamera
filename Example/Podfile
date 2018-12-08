@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'KYMosaicCamera_Example' do
+  pod 'KYMosaicCamera', :path => '../'
+
+  target 'KYMosaicCamera_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
